@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #fef8ef;
+}
+
+/* Remove Next.js default dark mode overrides */
